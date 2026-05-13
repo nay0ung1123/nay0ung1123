@@ -9,3 +9,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nay0ung1123&theme=github-dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=nay0ung1123&theme=darkhub)
