@@ -8,6 +8,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nay0ung1123&theme=darkhub)
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nay0ung1123&show_icons=true&theme=dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nay0ung1123&theme=dark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nay0ung1123&theme=github-dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nay0ung1123&theme=darkhub)
+
+</div>
