@@ -10,11 +10,12 @@
 
 <div align="center">
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nay0ung1123.nay0ung1123)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=nay0ung1123&theme=darkhub)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nay0ung1123&theme=dark)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nay0ung1123.nay0ung1123)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nay0ung1123&theme=github-dark)
 
 </div>
